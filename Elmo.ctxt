@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Elmo
+comment1.params=OvenSize
+comment1.target=Elmo(int)
+comment2.params=args
+comment2.target=void\ mainElmo(java.lang.String[])
+comment3.params=
+comment3.target=int\ test()
+comment4.params=
+comment4.target=void\ oven()
+comment5.params=
+comment5.target=int\ getBakedCookieNumbers()
+numComments=6

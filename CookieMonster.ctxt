@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CookieMonster
+comment1.params=Hunger
+comment1.target=CookieMonster(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=bakedcookies\ remaincookies\ Hunger
+comment3.target=int\ eat(int,\ int,\ int)
+numComments=4
